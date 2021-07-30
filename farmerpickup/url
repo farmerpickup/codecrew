@@ -1,0 +1,2 @@
+var url=require("url");  
+var path=url.parse(request.url).pathname;  

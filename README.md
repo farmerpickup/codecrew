@@ -42,7 +42,8 @@ Benefits to consumer :
 7. Consumer gets healthy and safe food.
 8. Organic food builds strong future generation.
  <H3> Roadmap </H3>
- ![Screenshot (100)](https://user-images.githubusercontent.com/88200101/127738843-6a6093e0-94e1-4a8d-ad1a-a3f07f3059c9.png)
+ ![image](https://user-images.githubusercontent.com/88200101/127738974-ed45a77c-769d-465f-a1fe-b768e1fcf239.png)
+
  <H3> Team Members </H3>
  1. Mantasha Fatima 
  2. Kaushiki kumari
